@@ -21,7 +21,7 @@ Actualmente busco continuar aprendiendo, participar en nuevos proyectos y adquir
 📫 ¿Cómo pueden contactarme?
 GitHub: https://github.com/darien02/darien02
 Correo electrónico:
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/darien-urizar-831819391
 🛠️ Tecnologías y herramientas
 Python
 Django
@@ -32,7 +32,7 @@ Docker
 
 Puedes revisar mis proyectos y conocer los trabajos que he desarrollado en los siguientes repositorios:
 
-ecommerce Inmuebles
+ecommerce Inmuebles https://github.com/darien02/Inmuebles
 
 
 Gracias por visitar mi perfil. Estoy interesado/a en seguir aprendiendo y desarrollando nuevas soluciones digitales.
